@@ -15,6 +15,6 @@ class Main<T> {
 	}
 	
 	public void meth(String[] args){
-		
+		System.out.println("HIIIIIIIIIIIIIII");
 	}
 }
